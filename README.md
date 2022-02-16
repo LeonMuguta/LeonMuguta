@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Tadiwa Leon Muguta
-- 👀 I’m really interested in web development 
-- 🌱 I’m currently learning Javascript, I've always loved the programming language
+- 👋 Hi, my name is Tadiwa Leon Muguta
+- 👀 I’m a junior web developer
+- 🌱 I code with HTML, CSS, Javascript, NodeJS, ReactJS & ExpressJS
 - 💞️ Right now my focus is primarily on improving my coding skills, 
 and hopefully I can get a job soon as well
-- 📫 How to reach me on LinkedIn by just typing "Tadiwa Muguta", I'm sure you'll find me! 😉
+- 📫 You can reach me on LinkedIn by just typing "Tadiwa Muguta", as well
+as sending me an email, which is leonmuguta7@gmail.com 😉
