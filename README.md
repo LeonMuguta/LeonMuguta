@@ -37,7 +37,7 @@ My name is Tadiwa Leon Muguta and I am a Junior Web Developer <img src="https://
 
 - :zap: In my free time, I create projects, solve problems on CodeWars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tadiwa-muguta-b1815b1a4/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tadiwa-muguta-b1815b1a4/)
 
 ---
 
