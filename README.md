@@ -29,13 +29,13 @@
 
 ### :man_technologist: About Me :
 
-My name is Tadiwa Leon Muguta and I am a Junior Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
+My name is Tadiwa Leon Muguta and I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
 
-- :telescope: I work as a Web Developer and contribute to frontend and backend for building web applications.
+- :telescope: I work as a Junior Software Engineer, currently developing ERP systems projects.
 
-- :seedling: Right now my focus is primarily on improving my coding skills, becoming a Full Stack Developer, and hopefully I can get a job soon as well.
+- :seedling: Right now my focus is primarily on improving my coding skills in various languages & technologies.
 
-- :zap: In my free time, I create projects, solve problems on CodeWars and read tech articles.
+- :zap: In my free time, I create projects in various languages, solve problems on CodeWars and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tadiwa-muguta-b1815b1a4/)
 
